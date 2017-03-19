@@ -13,4 +13,4 @@ They are replace only from the grade below - i.e. there is no external recruitme
 The machanism for doing this is ranking of all staff within-grade by a score which is drawn from the 'appraisal' distribution for their group (i.e. gender).
 </ol>
 
-See <a href="https://www.youtube.com/watch?v=nLjFTHTgEVU&t=0s">Unconscious Bias @ Work | Google Ventures<>.
+See <a href="https://www.youtube.com/watch?v=nLjFTHTgEVU&t=0s">Unconscious Bias @ Work | Google Ventures</a>.
