@@ -1,4 +1,4 @@
-# bias in HR
+# Bias in HR
 
 Simulation to replicate an interesitng claim made in lecture 'Unconscious Bias @ Work | Google Ventures'. This was that very small differences in distribution of appraisal distribution between two  different groups (e.g. genders) can have a startlingly large cumulative effect along career paths. The basic modelling assumptions are:
 
